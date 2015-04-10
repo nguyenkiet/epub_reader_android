@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Epub Reader</string>
+
+	<!-- action bar -->
+	<string name="action_about">About</string>
+
+	<!-- reading activity -->
+	<string name="navigation_header">Contents</string>
+	<string name="alt_navigation_item">Navigation</string>
+	<string name="title_activity_reading">ReadingActivity</string>
+	<string name="navigation_drawer_open">Show Contents</string>
+	<string name="navigation_drawer_close">Hide Contents</string>
+	<!-- reading menu -->
+	<string name="action_edit_theme">Edit Theme</string>
+
+</resources>
